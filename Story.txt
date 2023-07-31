@@ -1,2 +1,3 @@
 This is a text file for story.
 2nd file in the repository
+The fox jumps over the fences. - adding new words
